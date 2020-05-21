@@ -16,4 +16,5 @@
   
   
 代码写的比较烂，大概可能难以阅读
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+* 运行展示
+![Image of run](https://github.com/laoxinH/chaoxinsigin-java/blob/master/run.png)
